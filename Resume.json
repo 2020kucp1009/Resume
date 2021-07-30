@@ -11,6 +11,11 @@
 			"postalCode": "208012"
 		},
 		"profiles": [{
+				"network": "linkedin",
+				"username": "aditya-agarwal-525a441ba",
+				"url": "https://www.linkedin.com/in/aditya-agarwal-525a441ba/"
+			},
+			{
 				"network": "Twitter",
 				"username": "Aditya41031005",
 				"url": "https://www.twitter.com/Aditya41031005/"
@@ -21,9 +26,9 @@
 				"url": "https://www.github.com/2020kucp1009/"
 			},
 			{
-				"network": "linkedin",
-				"username": "aditya-agarwal-525a441ba",
-				"url": "https://www.linkedin.com/in/aditya-agarwal-525a441ba/"
+				"network": "Twitter",
+				"username": "Aditya41031005",
+				"url": "https://www.twitter.com/Aditya41031005/"
 			},
 			{
 				"network": "Instagram",
