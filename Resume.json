@@ -5,14 +5,10 @@
 		"picture": "https://avatars.githubusercontent.com/u/77493362?v=4",
 		"email": "2020kucp1009@iiitkota.ac.in",
 		"phone": "+916386870873",
-		"website": "---Enter Link of website(if any) ---",
 		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
 		"location": {
 			"address": "Kanpur, Uttar Pradesh, India",
-			"postalCode": "208012",
-			"city": "Kanpur",
-			"countryCode": "India",
-			"region": "Uttar Pradesh"
+			"postalCode": "208012"
 		},
 		"profiles": [{
 				"network": "Twitter",
@@ -45,43 +41,20 @@
 		"summary": "The GoogleCloudReady Facilitator program will provide you an opportunity to kickstart your career in cloud and get hands on practice on Google Cloud - the tool that powers apps like Google Search, Gmail and YouTube.",
 		"highlights": ["8 Quests, 4 Skill Badges"]
 	}],
-	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
-	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2020-12-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
 	"skills": [{
-		"level": "",
 		"keywords": ["HTML", "CSS", "Javascript", "Nodejs", "C/C++", "Data Structures and Algorithms"]
 	}],
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["Badminton", "Cricket"]
-	}],
-	"references": []
+	}]
 }
